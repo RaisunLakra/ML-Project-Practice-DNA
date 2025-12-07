@@ -1,0 +1,13 @@
+jupyterlab
+numpy
+matplotlib
+scikit-learn
+seaborn
+pandas
+tensorflow
+kagglehub
+pydot
+opencv-python
+face_recognition
+dlib
+git+https://github.com/ageitgey/face_recognition_models # face-recognition-model
